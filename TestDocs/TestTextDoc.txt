@@ -1,0 +1,3 @@
+Line 1 - created and edited the doc
+2 edited by Tara
+3 Save changes and pushing to Github to share 
