@@ -3,4 +3,4 @@ Line 1 - created and edited the doc
 3 Save changes and pushing to Github to share 
 
 
-Line four - edited - dec 9th - Tara
+Line - edited - dec 9th - Tara
